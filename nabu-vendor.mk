@@ -869,18 +869,9 @@ PRODUCT_PACKAGES += \
     CneApp \
     TimeService \
     PowerOffAlarm \
-    MotoSignatureApp \
-    MotoDolbyDax3 \
-    MotorolaSettingsProvider \
-    daxService \
     tcmclient \
-    com.motorola.frameworks.core.addon \
-    com.motorola.motosignature \
     com.qti.dpmframework \
     dpmapi \
-    moto-checkin \
-    moto-settings \
-    moto \
     vendor.qti.hardware.alarm-V1.0-java \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
     android.hardware.neuralnetworks@1.3-service-qti \
