@@ -99,14 +99,14 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libhwdap",
+	name: "libswdap",
 	owner: "xiaomi",
 	strip: {
 		none: true,
 	},
 	target: {
 		android_arm: {
-			srcs: ["proprietary/vendor/lib/soundfx/libhwdap.so"],
+			srcs: ["proprietary/vendor/lib/soundfx/libswdap.so"],
 		},
 	},
 	compile_multilib: "32",

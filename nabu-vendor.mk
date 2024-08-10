@@ -836,7 +836,7 @@ PRODUCT_PACKAGES += \
     libdeccfg \
     libstagefright_soft_ac4dec \
     libstagefright_soft_ddpdec \
-    libhwdap \
+    libswdap \
     libswgamedap \
     libswvqe \
     libdlbdsservice \
